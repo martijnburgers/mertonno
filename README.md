@@ -13,8 +13,12 @@ PoC for playing around with different technologies.
 - Azure Entra Id
     - app registrations
     - enterprise applications
-    - frontend / SPA user authentication
+    - scopes
+    - api permissions
+    - app roles  
+    - frontend / SPA user authentication 
     - app to app authentication with on-behalf-of flow, so one app calls a downstream api using the OAuth2.0 On-Behalf-Of flow.
+    - confidental apps
 
 - GraphQL with https://github.com/graphql/composite-schemas-wg
   - where schema comes from different services
