@@ -44,6 +44,8 @@ PoC for playing around with different technologies.
 
 We are building a simple webshop for books...
 
+What are the requirements?
+
 Which service is responsible for what?
 
 - Frontend App
