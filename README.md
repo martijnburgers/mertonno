@@ -8,7 +8,7 @@ PoC for playing around with different technologies.
     - React
     - with a generated typed client for the graphql api;
     - oauth tokens should not be accessible by JS to prevent XSS, only allow in a secure and http only cookie ussing the BFF (backend for frontend) pattern.
-    - using Graphql fragments
+    - using Graphql fragments for queries and mutations.
       
 - Azure Entra Id
     - app registrations
