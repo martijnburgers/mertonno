@@ -33,6 +33,8 @@ PoC for playing around with different technologies.
 - Azure Container Apps
 
 - Open Telemetry with Azure Monitor
+
+- Integrate within a fork of https://github.com/dotnet/eshop
  
 ## Bonus
 
